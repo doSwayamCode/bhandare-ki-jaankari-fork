@@ -1,7 +1,7 @@
 # Hackathon Submission: Bhandare ki jaankari
 
 ## GitHub handle
-github.com/doSwayamCode
+(github.com/doSwayamCode)
 
 <!--
 @adityaoberai
